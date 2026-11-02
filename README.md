@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [aimeos/aimeos](https://github.com/aimeos/aimeos), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 <p align="center">
     <a href="https://aimeos.org/">
         <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="center" />
